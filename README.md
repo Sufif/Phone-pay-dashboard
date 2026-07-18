@@ -12,7 +12,6 @@ The **PhonePe Dashboard** is an interactive Power BI report designed to analyze 
 
 👉 **https://app.powerbi.com/reportEmbed?reportId=c14979b2-8d10-416b-a40e-fba3659db1c6&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f**
 
-> **Note:** You may need to sign in with a Microsoft account if the report is not publicly accessible.
 
 ---
 
