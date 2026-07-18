@@ -96,19 +96,6 @@ This dashboard is ideal for:
 
 Or simply use the **Live Dashboard** link above to view the report online.
 
----
-
-## 📸 Dashboard Preview
-
-> Add screenshots of your dashboard here.
-
-Example:
-
-```
-images/dashboard-overview.png
-images/state-analysis.png
-images/transaction-analysis.png
-```
 
 ---
 
